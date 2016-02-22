@@ -30,4 +30,7 @@ keymaps | Keyboard shortcuts (Appearance & Behavior > Keymap)
 templates | Live templates (Editor > Live Templates)
 
 
-_most of this readme file has been shamelessly copied from_ https://github.com/nicwortel/phpstorm-ide-config
+## Credits
+
+- most of this readme file has been shamelessly copied from https://github.com/nicwortel/phpstorm-ide-config
+- some settings originally taken from https://github.com/ShawnMcCool/PHPStorm-SpacePeacock
