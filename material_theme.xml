@@ -6,9 +6,11 @@
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isMaterialDesign" value="false" />
+    <option name="isMaterialTheme" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="tabsHeight" value="50" />
+    <option name="accentColor" value="009688" />
     <option name="userId" value="-1d7936d0:167759873b2:-7fff" />
     <option name="version" value="3.0.0-rc3" />
   </component>
